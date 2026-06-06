@@ -33,8 +33,7 @@ Welcome to my profile! I am a passionate **9th-grade student** dedicated to expl
 
 ---
 
-### 📊 GitHub Stats:
----
+
 
 ### 📊 GitHub Stats:
 <p align="left">
