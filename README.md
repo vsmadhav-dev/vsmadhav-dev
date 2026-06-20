@@ -1,8 +1,7 @@
-# Hi there 👋 I'm Madhav Aanand
+# Hi there, I'm Madhav Aanand 👋 
+### 🚀 Aspiring Software Developer | 9th-Grade Tech Enthusiast
 
-### 🚀 Aspiring Software Developer
-
-Welcome to my profile! I am a passionate **9th-grade student** dedicated to exploring the world of computer science and software engineering. I love solving complex problems, building efficient systems, and transforming ideas into clean, functional code.
+Welcome to my profile! I am a passionate student dedicated to exploring the world of computer science and software engineering. I love solving complex problems, building efficient systems, and transforming ideas into clean, functional code.
 
 ---
 
@@ -26,16 +25,31 @@ Welcome to my profile! I am a passionate **9th-grade student** dedicated to expl
 ---
 
 ### 🌐 Connect with Me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m47903237@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MadhavWebDev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/m47903237)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m47903237@gmail.com) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MadhavWebDev) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/m47903237)
+[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/vsmadhav-dev)
 
 ### 💻 Technologies & Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
+### 📊 Coding Profiles & Metrics:
 
+<p align="left">
+  <!-- Codewars Profile Card -->
+  <a href="https://www.codewars.com/users/vsmadhav-dev">
+    <img src="https://www.codewars.com/users/vsmadhav-dev/badges/large" alt="Codewars Profile" height="150" />
+  </a>
+</p>
 
-### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=vsmadhav-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vsmadhav-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
@@ -45,4 +59,4 @@ Welcome to my profile! I am a passionate **9th-grade student** dedicated to expl
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vsmadhav-dev&theme=dark&hide_border=false" width="400" alt="GitHub Streak" />
 </p>
 
-
+---
