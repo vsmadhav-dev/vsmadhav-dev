@@ -26,6 +26,7 @@ Welcome to my profile! I am a passionate student dedicated to exploring the worl
 
 ### 🌐 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m47903237@gmail.com) 
+[![X (formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/MadhavAana87976)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MadhavWebDev) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/m47903237)
 [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/vsmadhav-dev)
@@ -58,5 +59,3 @@ Welcome to my profile! I am a passionate student dedicated to exploring the worl
 <p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vsmadhav-dev&theme=dark&hide_border=false" width="400" alt="GitHub Streak" />
 </p>
-
----
