@@ -1,61 +1,62 @@
-# Hi there, I'm Madhav Aanand 👋 
+# Hi there, I'm Madhav Aanand 👋
 ### 🚀 Aspiring Software Developer | 9th-Grade Tech Enthusiast
 
-Welcome to my profile! I am a passionate student dedicated to exploring the world of computer science and software engineering. I love solving complex problems, building efficient systems, and transforming ideas into clean, functional code.
+Welcome to my profile! I am a passionate student dedicated to exploring the world of computer science, algorithms, and web engineering. I enjoy solving complex logic problems, building CLI tools, and creating clean, responsive front-end experiences.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-* **Programming Languages:** Proficient in **C** (algorithms & systems programming) and actively mastering **JavaScript** for logic and interactivity.
-* **Web Technologies:** Strong foundation in core frontend engineering with **HTML5** and **CSS3**.
-* **Design & DevTools:** Crafting modern user interfaces in **Figma** and managing version control with **Git & GitHub**.
+* **Languages:** Proficient in **C** (memory management, data structures & algorithms) & learning **JavaScript** (ES6+).
+* **Web Development:** Core layout & UI engineering with **HTML5** & **CSS3**.
+* **UI/UX & Tools:** Interface wireframing in **Figma**, version control via **Git**, and remote repositories on **GitHub**.
 
 ---
 
-### 📈 Current Projects & Goals
+### 📂 Featured Focus & Projects
 
-* **Systems & Databases:** Experienced in building structured command-line applications in C (such as database and management systems).
-* **Web Engineering:** Designing modern, responsive, and user-centric web interfaces.
-* **What's Next:** Diving deeper into advanced JavaScript frameworks, backend integration, and scalable software design.
-
-> 💡 **Let's Connect & Build!**  
-> I am always eager to collaborate on innovative projects, learn new technologies, and push the boundaries of what's possible through code.
+* **Command-Line & Systems:** Engineered structured file-handling applications in C, including Library & Student Management Systems.
+* **Web Projects:** Designing and styling responsive, interactive web interfaces and dynamic storefront layouts.
+* **Currently Learning:** Advanced JavaScript DOM manipulation, asynchronous patterns, and fundamental software design principles.
 
 ---
 
 ### 🌐 Connect with Me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m47903237@gmail.com) 
-[![X (formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/MadhavAana87976)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MadhavWebDev) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/m47903237)
-[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/vsmadhav-dev)
 
-### 💻 Technologies & Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m47903237@gmail.com) 
+[![X (formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Aanand_Madhav23)
+[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/vsmadhav-dev)
 
 ---
 
-### 📊 Coding Profiles & Metrics:
+### 💻 Technologies & Tools:
 
 <p align="left">
-  <!-- Codewars Profile Card -->
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📊 Coding Metrics & Activity:
+
+<p align="left">
   <a href="https://www.codewars.com/users/vsmadhav-dev">
     <img src="https://www.codewars.com/users/vsmadhav-dev/badges/large" alt="Codewars Profile" height="150" />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=vsmadhav-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vsmadhav-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vsmadhav-dev&show_icons=true&theme=dark&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsmadhav-dev&theme=dark&hide_border=false&layout=compact" height="150" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vsmadhav-dev&theme=dark&hide_border=false" width="400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsmadhav-dev&theme=dark&hide_border=false" width="400" alt="GitHub Streak" />
 </p>
+
