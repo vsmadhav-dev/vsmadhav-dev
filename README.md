@@ -21,11 +21,24 @@ Welcome to my profile! I am a passionate student dedicated to exploring the worl
 
 ---
 
+### ⚡ What I'm Exploring Next
+
+* **Interactive Web Apps:** Building mini-applications with vanilla JavaScript to sharpen DOM manipulation skills.
+* **Algorithmic Problem Solving:** Tackling daily challenges on Codewars to strengthen core logic in C and JavaScript.
+
+---
+
 ### 🌐 Connect with Me:
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m47903237@gmail.com) 
-[![X (formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Aanand_Madhav23)
-[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/vsmadhav-dev)
+<a href="mailto:m47903237@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a> 
+<a href="https://x.com/Aanand_Madhav23">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X" />
+</a>
+<a href="https://www.codewars.com/users/vsmadhav-dev">
+  <img src="https://img.shields.io/badge/Codewars-%23B1361E.svg?style=flat&logo=codewars&logoColor=white" alt="Codewars" />
+</a>
 
 ---
 
@@ -47,16 +60,15 @@ Welcome to my profile! I am a passionate student dedicated to exploring the worl
 
 <p align="left">
   <a href="https://www.codewars.com/users/vsmadhav-dev">
-    <img src="https://www.codewars.com/users/vsmadhav-dev/badges/large" alt="Codewars Profile" height="150" />
+    <img src="https://www.codewars.com/users/vsmadhav-dev/badges/large" alt="Codewars Profile" />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsmadhav-dev&show_icons=true&theme=dark&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsmadhav-dev&theme=dark&hide_border=false&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vsmadhav-dev&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsmadhav-dev&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsmadhav-dev&theme=dark&hide_border=false" width="400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsmadhav-dev&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-
