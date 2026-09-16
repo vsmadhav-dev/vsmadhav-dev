@@ -1,7 +1,7 @@
 # Hi there, I'm Madhav Aanand 👋
 ### 🚀 Aspiring Software Developer | 9th-Grade Tech Enthusiast
 
-Welcome to my profile! I am a passionate student dedicated to exploring the world of computer science, algorithms, and web engineering. I enjoy solving complex logic problems, building CLI tools, and creating clean, responsive front-end experiences.
+Welcome to my profile! I’m a passionate student exploring computer science, algorithms, and web engineering. I enjoy solving logic problems, building CLI tools, and creating clean, responsive front-end experiences.
 
 ---
 
@@ -56,7 +56,7 @@ Welcome to my profile! I am a passionate student dedicated to exploring the worl
 
 ---
 
-### 📊 Coding Metrics & Activity:
+### 📊 Coding Metrics & Activity
 
 <p align="left">
   <a href="https://www.codewars.com/users/vsmadhav-dev">
@@ -65,10 +65,10 @@ Welcome to my profile! I am a passionate student dedicated to exploring the worl
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsmadhav-dev&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsmadhav-dev&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vsmadhav-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsmadhav-dev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsmadhav-dev&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vsmadhav-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
